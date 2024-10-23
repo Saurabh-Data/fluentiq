@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758364743658",
+    "project_id": "fluentiq-af8ad",
+    "storage_bucket": "fluentiq-af8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758364743658:android:9d14b80d3764a2dfebb493",
+        "android_client_info": {
+          "package_name": "com.hub.fluentiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wQ4OPlT6rwv1Tziw06s-Ah-kCBVXmbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

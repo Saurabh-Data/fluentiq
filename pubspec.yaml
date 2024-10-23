@@ -1,0 +1,47 @@
+name: fluentIQ
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"  # Ensure your SDK version is compatible with your code.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: any
+  youtube_player_flutter: ^9.1.1
+  http: any
+  xml: ^5.3.1
+  url_launcher: ^6.0.20
+  dio: ^5.1.0
+  intl: ^0.18.0
+  cupertino_icons: ^1.0.8
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+  firebase_database: any
+  firebase_analytics: any
+  image_picker: any
+  shared_preferences: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/splash_background.png
+    - assets/images/Google.png
+    - assets/images/profile_placeholder.png
+
+
+# To add assets to your application, add an assets section, like this:
+# assets:
+#   - images/a_dot_burr.jpeg
+#   - images/a_dot_ham.jpeg
